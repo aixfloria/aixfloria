@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, Ben Aixfloria!</h1>
+<h1 align="center">👋 Merhaba!</h1>
 <h3 align="center">🚀 Web Geliştirici & Açık Kaynak Meraklısı</h3>
 
 <p align="center">
